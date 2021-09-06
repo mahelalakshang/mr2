@@ -5,7 +5,7 @@ import {MP} from './MovieContext'
 import Add from './Add'
 function App() {
 
-
+const [x,setX]=useState('')
   return (
     <div>
       <MP>
