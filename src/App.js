@@ -6,6 +6,7 @@ import Add from './Add'
 function App() {
 
 const [x,setX]=useState('')
+const [y,setX]=useState('')
   return (
     <div>
       <MP>
